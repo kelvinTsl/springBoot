@@ -1,0 +1,15 @@
+*.class
+*.iml
+Maven*.xml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/*/target/
+
+/mybatis-generator
+/.idea
+
+/mms-app/d:/
+
